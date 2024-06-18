@@ -31,7 +31,7 @@ For the capstone project in this course I wrote documentation for an imagined AP
 
 #### Web Development
 
-I have completed the Fundamentals courses in the [Odin Proejct](https://www.theodinproject.com/), a self-directed web development program. These courses start with the basics of HTML and CSS, and then introduce JavaScript. One of my projects included writing a simple rock-paper-scissors game in JavaScript.
+I have completed the Fundamentals courses in the [Odin Project](https://www.theodinproject.com/), a self-directed web development program. These courses start with the basics of HTML and CSS, and then introduce JavaScript. One of my projects included writing a simple rock-paper-scissors game in JavaScript.
 
 Working through this program has improved my abilities to write and understand short code samples, and how to iteratively improve on and troubleshoot coding projects with a command line interface and git environment.
 
