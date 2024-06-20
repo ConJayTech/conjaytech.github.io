@@ -4,6 +4,10 @@ layout: page
 
 # Conor Teichroeb
 
+conor.teich@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/conor-teichroeb/)
+
 ## Technical Writing Portfolio
 
 ### About Me
