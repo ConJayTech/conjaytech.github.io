@@ -18,7 +18,7 @@ I also have some experience writing short code samples and working in a docs-as-
 
 I am interested in growing my career in the tech industry, learning more about software development, and most importantly writing documentation!
 
-### Writing Samples
+### Projects
 
 #### API Documentation
 
