@@ -2,19 +2,21 @@
 
 ## About Me
 
-I am a Technical Writer with experience in the food and production industry where I've written procedural SOPs and how-to guides for data management software.
+I am a Technical Writer with experience in the food and production industry where I've written Operations Documentation and how-to guides for data management software.
 
-I also have experience writing short code samples and working in a docs-as-code environment. I have contributed to open source projects and written API documentation.
+I also have experience writing short code samples and working with docs-as-code tools. I have contributed to open source projects and written API documentation.
 
-I am interested in growing my career in the tech industry, learning more about software development, and most importantly writing documentation!
+I am eager to grow my career in the tech industry, learn more about software development, and most importantly, write documentation!
 
 ## Projects
 
 ### API Documentation
 
+[Certification Badge](https://badgr.com/public/assertions/vBsXChlGRT-mPuc91TIEYw)
+
 As part of a certification course offered by the University of Washington, I participated in an open-source style project where I contributed to a mock REST API documentation set. This involved using a docs-as-code workflow, making pull requests along with 20 or so other students to a large collaborative project, administering usability tests, and interviewing SMEs.
 
-For the capstone project in this course I wrote documentation for an imagined API called **Visual Chronicle** in collaboration with a classmate who acted as SME. This documentation was iteratively developed using git and GitHub. It was peer reviewed and usability tested throughout its development.
+For the capstone project in this course I wrote documentation for an imagined API called [**Visual Chronicle**](https://conjaytech.github.io/visual-chronicle/) in collaboration with a classmate who acted as SME. This documentation was iteratively developed using git and GitHub. It was peer reviewed and usability tested throughout its development.
 
 * ["User" Resource PATCH Document](https://conjaytech.github.io/visual-chronicle/api/users-change-user-property)
     * A reference document for updating "user" Properties with either a JSON or cURL request.
