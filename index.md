@@ -2,15 +2,23 @@
 
 ## About Me
 
-I am a Technical Writer with experience in the food and production industry where I've written Operations Documentation and How-To Guides for data management software.
+I am a Technical Writer with experience writing API documentation. I have written extensive reference guides and tutorial pages that include code samples.
 
-I also have experience writing short code samples and working with docs-as-code tools. I have contributed to open source projects and written API documentation.
-
-I am eager to grow my career in the tech industry, learn more about software development, and most importantly, write documentation!
+I also have experience publishing static web pages that I have designed, styled, and deployed. This documentation management has involved using HTML, CSS, and Javascript to create responsive and beautiful documentation. 
 
 ## Projects
 
-### API Documentation
+### IQM API
+
+[IQM Docs](https://conjaytech.github.io/docs/)
+
+As the sole technical writer for [IQM](https://iqm.com/) I translated opaque OpenAPI Specification (OAS) documentation into user-friendly guidelines. I meticulously rewrote the documentation for every endpoint, ensuring every resource and property was sufficiently outlined and defined.
+
+Since the OAS contained many errors and incompletely documented endpoints, I worked closely with the developer team to fill in the gaps.
+
+Once I had established a working set of documentation, I published it using Docusaurus. Using my web design skills I modeled the site's style and formatting to resemble the highest quality API documentation in the industry. This was done to both make it familiar to users who have interacted with other API documentation and for its visually ergonomic way of conveying API reference material.
+
+### API Documentation Certification Course
 
 [Certification Badge](https://badgr.com/public/assertions/vBsXChlGRT-mPuc91TIEYw)
 
