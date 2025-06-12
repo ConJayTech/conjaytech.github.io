@@ -10,7 +10,7 @@ I also have experience publishing static web pages that I have designed, styled,
 
 ### IQM API
 
-[IQM Docs](https://conjaytech.github.io/docs/)
+[IQM Docs](https://developers.iqm.com/)
 
 As the sole technical writer for [IQM](https://iqm.com/) I translated opaque OpenAPI Specification (OAS) documentation into user-friendly guidelines. I meticulously rewrote the documentation for every endpoint, ensuring every resource and property was sufficiently outlined and defined.
 
